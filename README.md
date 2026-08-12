@@ -6,10 +6,10 @@ Curriculum reference: [maitysoumik.github.io/basic-coding-with-c](https://maitys
 
 ## Progress Overview
 
-- **Current Status**: Day 2 / 100
-- **Phase 1 (Days 1 to 50, 2 problems/day)**: In Progress (4 / 100 problems)
+- **Current Status**: Day 3 / 100
+- **Phase 1 (Days 1 to 50, 2 problems/day)**: In Progress (6 / 100 problems)
 - **Phase 2 (Days 51 to 100, 1 problem/day)**: Upcoming
-- **Total Solved**: 4 / 150 problems
+- **Total Solved**: 6 / 150 problems
 
 ---
 
@@ -19,6 +19,7 @@ Curriculum reference: [maitysoumik.github.io/basic-coding-with-c](https://maitys
 |:---|:---|:---|:---|
 | **Day01** | 2026-08-10 | [Day01/q1.c](Day01/q1.c), [Day01/q2.c](Day01/q2.c) | User Inputs, Operations & Output |
 | **Day02** | 2026-08-11 | [Day02/q3.c](Day02/q3.c), [Day02/q4.c](Day02/q4.c) | User Inputs, Operations & Output |
+| **Day03** | 2026-08-12 | [Day03/q5.c](Day03/q5.c), [Day03/q6.c](Day03/q6.c) | User Inputs, Operations & Output |
 
 ---
 
