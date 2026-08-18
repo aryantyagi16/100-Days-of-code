@@ -6,10 +6,10 @@ Curriculum reference: [maitysoumik.github.io/basic-coding-with-c](https://maitys
 
 ## Progress Overview
 
-- **Current Status**: Day 8 / 100
-- **Phase 1 (Days 1 to 50, 2 problems/day)**: In Progress (16 / 100 problems)
+- **Current Status**: Day 9 / 100
+- **Phase 1 (Days 1 to 50, 2 problems/day)**: In Progress (18 / 100 problems)
 - **Phase 2 (Days 51 to 100, 1 problem/day)**: Upcoming
-- **Total Solved**: 16 / 150 problems
+- **Total Solved**: 18 / 150 problems
 
 ---
 
@@ -25,6 +25,7 @@ Curriculum reference: [maitysoumik.github.io/basic-coding-with-c](https://maitys
 | **Day06** | 2026-08-15 | [Day06/q11.c](Day06/q11.c), [Day06/q12.c](Day06/q12.c) | Conditional Statements |
 | **Day07** | 2026-08-16 | [Day07/q13.c](Day07/q13.c), [Day07/q14.c](Day07/q14.c) | Conditional Statements |
 | **Day08** | 2026-08-17 | [Day08/q15.c](Day08/q15.c), [Day08/q16.c](Day08/q16.c) | Conditional Statements |
+| **Day09** | 2026-08-18 | [Day09/q17.c](Day09/q17.c), [Day09/q18.c](Day09/q18.c) | Conditional Statements |
 
 ---
 
