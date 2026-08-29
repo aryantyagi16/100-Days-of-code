@@ -6,10 +6,10 @@ Curriculum reference: [maitysoumik.github.io/basic-coding-with-c](https://maitys
 
 ## Progress Overview
 
-- **Current Status**: Day 19 / 100
-- **Phase 1 (Days 1 to 50, 2 problems/day)**: In Progress (38 / 100 problems)
+- **Current Status**: Day 20 / 100
+- **Phase 1 (Days 1 to 50, 2 problems/day)**: In Progress (40 / 100 problems)
 - **Phase 2 (Days 51 to 100, 1 problem/day)**: Upcoming
-- **Total Solved**: 38 / 150 problems
+- **Total Solved**: 40 / 150 problems
 
 ---
 
@@ -36,6 +36,7 @@ Curriculum reference: [maitysoumik.github.io/basic-coding-with-c](https://maitys
 | **Day17** | 2026-08-26 | [Day17/q33.c](Day17/q33.c), [Day17/q34.c](Day17/q34.c) | Loops without Arrays/Strings |
 | **Day18** | 2026-08-27 | [Day18/q35.c](Day18/q35.c), [Day18/q36.c](Day18/q36.c) | Loops without Arrays/Strings |
 | **Day19** | 2026-08-28 | [Day19/q37.c](Day19/q37.c), [Day19/q38.c](Day19/q38.c) | Loops without Arrays/Strings |
+| **Day20** | 2026-08-29 | [Day20/q39.c](Day20/q39.c), [Day20/q40.c](Day20/q40.c) | Loops without Arrays/Strings |
 
 ---
 
